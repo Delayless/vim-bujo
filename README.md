@@ -54,6 +54,9 @@ __You can see more mod commands at [:h mods]__
   ```
   let g:bujo#window_width = 40
   ```
+  * Press ```Ctrl-W n <``` replace _n_ with the number of steps you want to move to the left
+  * Press ```Ctrl-W n >``` replace _n_ with the number of steps you want to move to the right
+
 
 ## Screenshots
 
@@ -87,3 +90,8 @@ reach out to me on [twitter]
 [twitter]: https://twitter.com/FonsecaJersey
 [vim-plug]: https://github.com/junegunn/vim-plug
 [:h mods]: https://vimhelp.org/map.txt.html#%3Cmods%3E
+
+## License
+
+Copyright (c) Jersey Fonseca.  Distributed under the same terms as Vim itself.
+See `:help license`.
